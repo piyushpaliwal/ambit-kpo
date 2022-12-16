@@ -1,0 +1,1 @@
+<?php include "comm/comm-footer/comm-footer-v2.php";?>

@@ -1,0 +1,57 @@
+/* 
+
+1. Add your custom Css styles below
+2. Place the this code in your template: 
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+
+.xap-box-shadow {
+    box-shadow: 0 0 7px 1px #726d6d;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+}
+
+.float-xap {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+
+.my-float-xap {
+    margin-top: 16px;
+}
+
+.img-wid-icon {
+    width: 35px;
+    margin: 5px;
+    height: 35px;
+}
+
+.xap-bg-steps {
+    background: #fff;
+    box-shadow: 2px 2px 3px rgb(153, 149, 149);
+    border: #FFF solid 3px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.xap-shadow {
+    box-shadow: 0 0 7px 1px #726d6d;
+}
+
+.ctp-mob {
+    position: absolute;
+    right: 60px;
+    z-index: 9;
+}

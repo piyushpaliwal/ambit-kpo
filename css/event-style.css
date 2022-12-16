@@ -1,0 +1,39 @@
+.event-info-box {
+    background-color: #455869;
+    padding: 12px 0;
+}
+
+.event-info-box .col-lg-3,
+.event-info-box .col-lg-4 {
+    border-right: 1px solid #becfbd;
+}
+
+.event-info-box .col-lg-3:last-child,
+.event-info-box .col-lg-4:last-child {
+    border-right: 0;
+}
+
+.event-info-icon {
+    color: rgb(255 255 255);
+    float: left;
+    clear: both;
+    padding: 18px 17px;
+    width: 80px;
+}
+
+.event-info-content .info-title {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.event-info-content .info-description {
+    color: rgb(245, 241, 241);
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+
+.post-title {
+    border-bottom: 1px solid rgba(236, 190, 190, 0.3);
+}

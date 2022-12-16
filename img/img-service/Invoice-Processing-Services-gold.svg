@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" width="496.04" height="495.86" viewBox="0 0 496.04 495.86">
+  <g id="Invoice_Processing_Services" data-name="Invoice Processing Services" transform="translate(0.019 -0.044)">
+    <path id="Path_47" data-name="Path 47" d="M183.8,200h216V159.89h-216Z" transform="translate(-7.79 -7.89)" fill="#d9b673"/>
+    <path id="Path_48" data-name="Path 48" d="M165,55.89a79.54,79.54,0,0,1,0,80H399.8v-80Z" transform="translate(-7.79 -7.89)" fill="#d9b673"/>
+    <path id="Path_49" data-name="Path 49" d="M103.8,151.89v-16a24,24,0,1,0,0-48h-16a8,8,0,0,1,0-16h16a8,8,0,0,1,8,8h16a24,24,0,0,0-24-24v-16h-16v16a24,24,0,0,0,0,48h16a8,8,0,0,1,0,16h-16a8,8,0,0,1-8-8h-16a24,24,0,0,0,24,24v16Z" transform="translate(-7.79 -7.89)" fill="#d9b673"/>
+    <path id="Path_50" data-name="Path 50" d="M458.14,394.23,407.8,444.58l-18.34-18.35-11.32,11.31L407.8,467.2l61.66-61.66Z" transform="translate(-7.79 -7.89)" fill="#d9b673"/>
+    <path id="Path_51" data-name="Path 51" d="M183.8,151.89h216v16h-216Z" transform="translate(-7.79 -7.89)" fill="#d9b673"/>
+    <path id="Path_52" data-name="Path 52" d="M183.8,183.89h16v16h-16Z" transform="translate(-7.79 -7.89)" fill="#d9b673"/>
+    <path id="Path_53" data-name="Path 53" d="M215.8,183.89h184v16h-184Z" transform="translate(-7.79 -7.89)" fill="#d9b673"/>
+    <path id="Path_54" data-name="Path 54" d="M431.8,344.29V47.89a24,24,0,0,0-24-24H146.23A87.94,87.94,0,1,0,79.79,182.36V463.89a24,24,0,0,0,24,24H376a79.95,79.95,0,1,0,55.8-143.6ZM23.8,95.89a72,72,0,1,1,72,72,72,72,0,0,1-72-72Zm72,368v-280a88,88,0,0,0,67.83-144H407.8a8,8,0,0,1,8,8v296.4a78.613,78.613,0,0,0-16,3.29V215.88h-288v240H350.53a79.881,79.881,0,0,0,9.42,16H103.8a8,8,0,0,1-8-8Zm249.61-24H335.8v-160h48V354.7a79.9,79.9,0,0,0-38.39,85.18Zm38.39-176h-48v-32h48Zm-64,0h-32v-32h32Zm-48,0h-80v-32h80Zm-96,0h-48v-32h48Zm-48,16h48v160h-48Zm64,0h32v160h-32Zm48,0h32v160h-32Zm48,0h32v160h-32Zm136,208a64,64,0,1,1,64-64A64,64,0,0,1,423.8,487.89Z" transform="translate(-7.79 -7.89)" fill="#d9b673"/>
+  </g>
+</svg>

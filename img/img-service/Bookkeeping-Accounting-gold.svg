@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><svg id="Bookkeeping_Accounting" data-name="Bookkeeping &amp; Accounting" xmlns="http://www.w3.org/2000/svg" width="448" height="496" viewBox="0 0 448 496">
+  <path id="Path_17" data-name="Path 17" d="M440,104H400V48A40,40,0,0,0,360,8H88A40,40,0,0,0,48,48V88h64v16H72a40,40,0,0,0-40,40V384a40,40,0,0,0,40,40H187.06l-16,32H144a24,24,0,0,0,0,48H368a24,24,0,0,0,0-48H340.94l-16-32H440a40,40,0,0,0,40-40V144A40,40,0,0,0,440,104ZM384,322.44V344H362.44A88.661,88.661,0,0,0,384,322.44ZM312,344a72,72,0,1,1,72-72A72,72,0,0,1,312,344Zm88-192h32V344H400ZM384,48V221.56A87.93,87.93,0,1,0,261.56,344H128V48a39.58,39.58,0,0,0-8.21-24H360A24,24,0,0,1,384,48ZM112,344H80V152h32ZM64,72V48a24,24,0,0,1,48,0V72ZM376,480a8,8,0,0,1-8,8H144a8,8,0,0,1,0-16H368A8,8,0,0,1,376,480Zm-52.94-24H188.94l16-32H307.06ZM360,408a8,8,0,0,1,0-16h48a8,8,0,0,1,0,16Zm104-24a24,24,0,0,1-24,24h-9.47A23.77,23.77,0,0,0,408,376H360a23.77,23.77,0,0,0-22.53,32H72a24,24,0,0,1-24-24V144a24,24,0,0,1,24-24h40v16H80a16,16,0,0,0-16,16V344a16,16,0,0,0,16,16H432a16,16,0,0,0,16-16V152a16,16,0,0,0-16-16H400V120h40a24,24,0,0,1,24,24Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_18" data-name="Path 18" d="M80,376H96v16H80Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_19" data-name="Path 19" d="M112,376h16v16H112Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_20" data-name="Path 20" d="M144,376h16v16H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_21" data-name="Path 21" d="M312,248a8,8,0,0,1,8,8h16a24,24,0,0,0-16-22.53V216H304v16H288v24a24,24,0,0,0,24,24,8,8,0,0,1,8,8v8h-8a8,8,0,0,1-8-8H288a24,24,0,0,0,16,22.53V328h16V312h16V288a24,24,0,0,0-24-24,8,8,0,0,1-8-8v-8Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="8" cy="8" r="8" transform="translate(224 256)" fill="#d9b673"/>
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="8" cy="8" r="8" transform="translate(320 256)" fill="#d9b673"/>
+  <path id="Path_22" data-name="Path 22" d="M368,40H320V152H304V72H256v80H240V104H192v64H368ZM224,152H208V120h16Zm48-64h16v64H272Zm80,64H336V56h16Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_23" data-name="Path 23" d="M144,312h64v16H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_24" data-name="Path 24" d="M144,280h64v16H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_25" data-name="Path 25" d="M144,248h64v16H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_26" data-name="Path 26" d="M144,216h64v16H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_27" data-name="Path 27" d="M144,184h64v16H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_28" data-name="Path 28" d="M144,40h16V56H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_29" data-name="Path 29" d="M144,72h16V88H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+  <path id="Path_30" data-name="Path 30" d="M144,104h16v16H144Z" transform="translate(-32 -8)" fill="#d9b673"/>
+</svg>

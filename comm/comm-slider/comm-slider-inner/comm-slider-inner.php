@@ -1,0 +1,1 @@
+<?php include "comm/comm-slider/comm-slider-inner/comm-slider-inner-v2.php";?>
